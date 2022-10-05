@@ -5,8 +5,9 @@
 
 ## By the way here are some of my statistics 🚀
 ![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=polarikus&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=polarikus&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polarikus&theme=tokyonight&layout=compact)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=polarikus&theme=tokyonight" alt="mystreak"/>
+
 
 🌱 I’m currently learning IoT in gb.ru
 

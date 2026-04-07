@@ -5,7 +5,8 @@
 
 ## By the way here are some of my statistics 🚀
 ![Stats](./profile/stats.svg)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=polarikus&theme=tokyonight" alt="mystreak"/>
+![Top Langs](./profile/stats.svg)
+![GitHub Streak](./profile/stats.svg)
 
 
 🌱 I’m currently learning IoT in gb.ru

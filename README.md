@@ -4,8 +4,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=polarikus&show_icons=true&theme=tokyonight)
-![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polarikus&theme=tokyonight&layout=compact)
+![Stats](./profile/stats.svg)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=polarikus&theme=tokyonight" alt="mystreak"/>
 
 

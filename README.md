@@ -6,7 +6,7 @@
 ## By the way here are some of my statistics 🚀
 ![Stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Mohammad-Alavi&layout=compact&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=polarikus&layout=compact&theme=dracula)](https://git.io/streak-stats)
 
 
 
